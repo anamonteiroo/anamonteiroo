@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ana Monteiro!</h1>
 
-- 🔭 I’m currently **Open to Work**
+- 🔭 I’m currently work in **Tech4Humans**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Backend, Node.js and Chatbots**
 
