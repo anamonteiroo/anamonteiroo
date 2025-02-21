@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ana Monteiro!</h1>
 
-- 🔭 I’m currently work in **Tech4Humans**
-
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Backend, Node.js and Chatbots**
+- 💬 Ask me about **Backend, Node.js, Python and Chatbots**
 
 - 📫 How to reach me **aninhamonteiro2010@gmail.com**
 
