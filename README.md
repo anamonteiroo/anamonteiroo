@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ana Monteiro!</h1>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular** and **Python**
 
-- 💬 Ask me about **Backend, Node.js, Python and Chatbots**
+- 💬 Ask me about **Backend, Frontend, Node.js, Python and Chatbots**
 
 - 📫 How to reach me **aninhamonteiro2010@gmail.com**
 
