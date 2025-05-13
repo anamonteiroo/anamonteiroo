@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ana Monteiro!</h1>
 
-- 🌱 I’m currently learning **Angular** and **Python**
+- 🌱 I’m currently working in **Zenvia**
 
 - 💬 Ask me about **Backend, Frontend, Node.js, Python and Chatbots**
 
